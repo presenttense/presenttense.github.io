@@ -1,0 +1,9 @@
+# www.robotstxt.org/
+# http://code.google.com/web/controlcrawlindex/
+
+User-agent: *
+Disallow: /scomplete.html
+Disallow: /sregister.html
+Disallow: /ccomplete.html
+Disallow: /cregister.html
+Disallow: /404.html
